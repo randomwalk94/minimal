@@ -4,9 +4,9 @@ toc: false
 ---
 
 My name is Hai Le \\(a^2+b^2=c^2\\).
-Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x_0)=M$ for some $x_0\in \Omega$ then $u$ is constant. Let ${S_M} = \{ x \in \Omega \;|\;u(x) = M\} $. Since $u$ is continuous, $S_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S_M=\Omega$.\\
+Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x_0)=M$ for some $x_0\in \Omega$ then $u$ is constant. Let ${S_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S_M=\Omega$.\\
 Consider an open ball $B=B(x_0,r)$ center $x_0$ radius $r$ contained in $\Omega$. Consider an arbitrarily smaller ball $B_1=B_1(x_0,r_1)$ inside $B$ with $0<r_1<r$.  We can find a function $h\in C^2(B_1)\cap C^0(\bar B_1) $ satisfying
-\\[\left\{ \begin{array}{l}
+\\[\left\\{ \begin{array}{l}
 \Delta h = 0\;\;\text{ in } B_1\\
 \;\;\;h = u \;\;\text{ on } \partial B_1
 \end{array} \right.\\]
