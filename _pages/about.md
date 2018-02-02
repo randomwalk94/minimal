@@ -3,7 +3,7 @@ permalink: /about/
 toc: false
 ---
 
-My name is Hai Le \\(a^2+b^2=c^2\\) .\\[\Delta \left( { - \frac{1}{{{{\left| x \right|}^{\alpha  - 2}}}}} \right) = (\alpha  - 2)\sum\limits_{i = 1}^n {\frac{\partial }{{\partial {x_i}}}\left( {\frac{{{x_i}}}{{{{\left| x \right|}^\alpha }}}} \right)}  = (\alpha  - 2)\sum\limits_{i = 1}^n {\left( {\frac{1}{{{{\left| x \right|}^\alpha }}} - \frac{{\alpha x_i^2}}{{{{\left| x \right|}^{\alpha  + 2}}}}} \right)}  = \frac{{(\alpha  - 2)(n - \alpha )}}{{{{\left| x \right|}^\alpha }}} \ge 0.\\]
+My name is Hai Le \\(a^2+b^2=c^2\\). \\[\Delta \left( { - \frac{1}{{{{\left| x \right|}^{\alpha - 2}}}}} \right) = (\alpha - 2)\sum\limits_{i = 1}^n {\frac{\partial }{{\partial {x_i}}}\left( {\frac{{{x_i}}}{{{{\left| x \right|}^\alpha }}}} \right)} = (\alpha - 2)\sum\limits_{i = 1}^n {\left( {\frac{1}{{{{\left| x \right|}^\alpha }}} - \frac{{\alpha x_i^2}}{{{{\left| x \right|}^{\alpha + 2}}}}} \right)} = \frac{{(\alpha - 2)(n - \alpha )}}{{{{\left| x \right|}^\alpha }}} \ge 0.\\]
 
 I am a PhD student in Mathematics at Penn State $\mu(x)=0$.
 
